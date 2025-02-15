@@ -4,8 +4,10 @@ my country is Egypt
 my city is Cairo
 my university is Cairo University
 my faculty is Faculty of Science
+
+Git this is my first commit
+
 my department is Computer Science
 my degree is Bachelor of Science
 my specialization is Computer Science
 my graduation year is 2025
-
